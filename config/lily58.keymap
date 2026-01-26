@@ -20,7 +20,7 @@
 // | SHIFT |  A  |  S  |  D   |  F   |  G   |                   |  H   |  J    |  K    |  L   |   ;   |   '   |
 // |  CTRL |  Z  |  X  |  C   |  V   |  B   |  ESC   |  |  BSPC |  N   |  M    |  ,    |  .   |   /   | BSLH  |
 //                     | ALT  | GUI  | LOWER|  SPACE |  | ENTER | RAISE| LBKT  | RBKT  |
-            display-name "Base";
+            display-name = "Base";
             bindings = <
 &kp GRAVE &kp N1 &kp N2 &kp N3   &kp N4   &kp N5                     &kp N6 &kp N7   &kp N8    &kp N9  &kp N0   &kp EQUAL
 &kp TAB   &kp Q  &kp W  &kp E    &kp R    &kp T                      &kp Y  &kp U    &kp I     &kp O   &kp P    &kp MINUS
@@ -39,7 +39,7 @@
 // |       |  F2 |  F3 |  F4  |  F5  |  F6  |                   |      |       |   <-  |  v   |  ->   |       |
 // |       |     |     |      |      |      |        |  |  DEL  |      |       |       |      |       |       |
 //                     |      |      |      |        |  |       |      |       |       |
-            display-name "Lower";
+            display-name = "Lower";
             bindings = <
 &trans  &kp F1   &kp F2   &kp F3    &kp F4  &kp F5                   &kp F6  &kp F7  &kp F8   &kp F9   &kp F10   &kp F11
 &trans  &trans   &kp UP   &trans    &trans  &trans                   &trans  &trans  &trans   &kp UP   &trans    &trans
@@ -58,7 +58,7 @@
 // |       |  F2 |  F3 |  F4  |  F5  |  F6  |                   |      |       |   <-  |  v   |  ->   |       |
 // |       |     |     |      |      |      |        |  |  DEL  |      |       |       |      |       |       |
 //                     |      |      |      |        |  | PAUSE |      |  PREV |  NEXT |
-            display-name "Raise";
+            display-name = "Raise";
             bindings = <
 &trans  &kp F1   &kp F2   &kp F3    &kp F4  &kp F5                   &kp F6  &kp F7  &kp F8   &kp F9   &kp F10   &kp F11
 &trans  &trans   &kp UP   &trans    &trans  &trans                   &trans  &trans  &trans   &kp UP   &trans    &trans

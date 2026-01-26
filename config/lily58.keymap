@@ -41,7 +41,7 @@
 &trans  &trans   &kp UP   &trans    &trans  &trans                   &trans  &trans  &trans   &kp UP   &trans    &trans
 &trans  &kp LEFT &kp DOWN &kp RIGHT &trans  &trans                   &trans  &trans  &kp LEFT &kp DOWN &kp RIGHT &trans
 &trans  &trans   &trans   &trans    &trans  &trans  &trans   &kp DEL &trans  &trans  &trans   &trans   &trans    &trans
-                          &trans    &trans  &trans  &kp LS(LALT(MINUS))   &trans  &trans  &trans  &trans
+                          &trans    &trans  &trans  &kp LS(LA(MINUS))   &trans  &trans  &trans  &trans
             >;
         };
 

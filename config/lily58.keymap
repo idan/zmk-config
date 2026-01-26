@@ -57,7 +57,7 @@
 &trans  &trans   &kp UP   &trans    &trans  &trans                   &trans  &trans  &trans   &kp UP   &trans    &trans
 &trans  &kp LEFT &kp DOWN &kp RIGHT &trans  &trans                   &trans  &trans  &kp LEFT &kp DOWN &kp RIGHT &trans
 &trans  &trans   &trans   &trans    &trans  &trans  &trans  &kp DEL  &trans  &trans  &trans   &trans   &trans    &trans
-                          &trans    &trans  &trans  &trans  &kp C_PP &trans  &kp C_PREV  &kp CN_NEXT
+                          &trans    &trans  &trans  &trans  &kp C_PP &trans  &kp C_PREV  &kp C_NEXT
             >;
         };
     };
